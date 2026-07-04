@@ -43,7 +43,7 @@
       image: location.origin + '/assets/apple-touch-icon.png',
       url: location.origin + '/',
       telephone: '+905550514455',
-      email: 'pazarmf@gmail.com',
+      email: 'info@mfurkanpazar.com',
       hasMap: 'https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6',
       address: {
         '@type': 'PostalAddress',

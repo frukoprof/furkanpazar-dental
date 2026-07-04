@@ -50,7 +50,7 @@ python -m http.server 8000
 ## İletişim Kanalları
 
 - WhatsApp / Telegram: `wa.me/905550514455` ve `t.me/+905550514455` (`index.html` içinde ikişer yerde: iletişim bölümü + floating butonlar)
-- İçerik sorumlusu e-postası: `pazarmf@gmail.com` (footer)
+- İçerik sorumlusu e-postası: `info@mfurkanpazar.com` (footer; Cloudflare Email Routing → pazarmf@gmail.com)
 - Google işletme kaydı: https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6 (harita linki + JSON-LD `hasMap`)
 
 Numara/e-posta değişirse yukarıdaki yerlerin tümü ve `js/ui.js` içindeki JSON-LD güncellenmelidir.
