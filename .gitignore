@@ -6,6 +6,8 @@ Desktop.ini
 # Editor
 .vscode/
 .idea/
+.claude/
+.agents/
 
 # Scratch / temp
 *.tmp
