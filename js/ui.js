@@ -59,9 +59,9 @@
       },
       openingHoursSpecification: [{
         '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
-        opens: '09:00',
-        closes: '18:30'
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Saturday', 'Sunday'],
+        opens: '10:00',
+        closes: '20:00'
       }],
       knowsLanguage: ['tr', 'ru', 'en']
     };

@@ -12,9 +12,7 @@ Alan adına geçmeden / siteyi duyurmadan önce:
 
 - [x] **WhatsApp numarası**: `wa.me/905550514455` (index.html, 2 yer)
 - [x] **Telegram**: `t.me/+905550514455` (index.html, 2 yer)
-- [ ] **Çalışma saatleri**: `locales/*.json` içindeki `contact.hours_*` değerleri doğru mu?
-      (Şu an placeholder: Pzt–Cmt 09:00–18:30, Pazar kapalı) — değişirse `js/ui.js` içindeki
-      JSON-LD `openingHoursSpecification` da güncellenmeli
+- [x] **Çalışma saatleri**: Cuma hariç her gün 10:00–20:00 (locales + JSON-LD)
 - [x] **Sorumlu e-posta**: `pazarmf@gmail.com` (footer + JSON-LD)
 - [x] **Harita**: iframe işletme kaydına ve koordinata (36.3225981, 33.8816941) bağlandı;
       "Haritada aç" linki Google işletme kaydına gider (https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6);
@@ -38,11 +36,11 @@ Alan adına geçmeden / siteyi duyurmadan önce:
 
 ### Alan adı sonrası dosya güncellemeleri
 
-Alan adı aktif olunca şu URL'leri yeni alan adıyla değiştir:
+Alan adı: **mfurkanpazar.com** — aşağıdaki güncellemeler yapıldı:
 
-- `index.html`: `<link rel="canonical">`, `og:url`, `og:image`
-- `robots.txt`: `Sitemap:` satırı
-- `sitemap.xml`: `<loc>`
+- [x] `index.html`: `<link rel="canonical">`, `og:url`, `og:image` → https://mfurkanpazar.com/
+- [x] `robots.txt`: `Sitemap:` satırı
+- [x] `sitemap.xml`: `<loc>`
 
 > Not: Site içi tüm yollar göreli olduğundan alan adı değişikliği başka bir şey bozmaz.
 
