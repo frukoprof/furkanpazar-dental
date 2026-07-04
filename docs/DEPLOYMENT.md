@@ -10,15 +10,16 @@
 
 Alan adına geçmeden / siteyi duyurmadan önce:
 
-- [ ] **WhatsApp numarası**: `index.html` içinde 2 yerde `https://wa.me/90XXXXXXXXXX` → gerçek numara
-      (format: ülke kodu + numara, başında `+` ve boşluk olmadan; ör. `https://wa.me/905321234567`)
-- [ ] **Telegram**: `index.html` içinde 2 yerde `https://t.me/XXXXXXX` → gerçek kullanıcı adı
+- [x] **WhatsApp numarası**: `wa.me/905550514455` (index.html, 2 yer)
+- [x] **Telegram**: `t.me/+905550514455` (index.html, 2 yer)
 - [ ] **Çalışma saatleri**: `locales/*.json` içindeki `contact.hours_*` değerleri doğru mu?
       (Şu an placeholder: Pzt–Cmt 09:00–18:30, Pazar kapalı) — değişirse `js/ui.js` içindeki
       JSON-LD `openingHoursSpecification` da güncellenmeli
-- [ ] **Sorumlu e-posta**: footer'daki `frukoprof@gmail.com` doğru mu?
-- [ ] **Harita**: iframe konumu adresi doğru gösteriyor mu? Gerekirse `index.html` içindeki
-      iframe `src` sorgusunu düzelt (koordinatla daha isabetli olur: `q=36.3186,33.8814` gibi)
+- [x] **Sorumlu e-posta**: `pazarmf@gmail.com` (footer + JSON-LD)
+- [x] **Harita**: iframe işletme kaydına ve koordinata (36.3225981, 33.8816941) bağlandı;
+      "Haritada aç" linki Google işletme kaydına gider (https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6);
+      JSON-LD'de `hasMap` + `geo` mevcut
+- [ ] **Harita canlı test**: telefonda iframe'in doğru pin gösterdiğini doğrula
 - [ ] `python scripts/check_locales.py` → OK
 - [ ] Footer'daki son güncelleme tarihi güncel
 

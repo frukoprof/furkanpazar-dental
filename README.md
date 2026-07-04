@@ -47,6 +47,10 @@ python -m http.server 8000
 2. Yeni metnin [docs/COMPLIANCE.md](docs/COMPLIANCE.md) kurallarıyla çelişmediğini doğrula.
 3. Footer'daki "son güncelleme" tarihi `index.html` içinde güncellenir (mevzuat gereği zorunlu alan).
 
-## Telefon Numaraları
+## İletişim Kanalları
 
-WhatsApp/Telegram numaraları `index.html` içinde `https://wa.me/90XXXXXXXXXX` ve `https://t.me/XXXXXXX` placeholder'larındadır — yayına almadan önce doldurulmalıdır (bkz. docs/DEPLOYMENT.md kontrol listesi).
+- WhatsApp / Telegram: `wa.me/905550514455` ve `t.me/+905550514455` (`index.html` içinde ikişer yerde: iletişim bölümü + floating butonlar)
+- İçerik sorumlusu e-postası: `pazarmf@gmail.com` (footer)
+- Google işletme kaydı: https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6 (harita linki + JSON-LD `hasMap`)
+
+Numara/e-posta değişirse yukarıdaki yerlerin tümü ve `js/ui.js` içindeki JSON-LD güncellenmelidir.

@@ -39,14 +39,23 @@
       '@context': 'https://schema.org',
       '@type': 'Dentist',
       name: 'Dt. Muhammed Furkan Pazar',
+      alternateName: 'Diş Hekimi Muhammed Furkan PAZAR',
       image: location.origin + '/assets/apple-touch-icon.png',
       url: location.origin + '/',
+      telephone: '+905550514455',
+      email: 'pazarmf@gmail.com',
+      hasMap: 'https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6',
       address: {
         '@type': 'PostalAddress',
         streetAddress: 'Taşucu Mahallesi, Fevzi Paşa Sokak No: 22A/A',
         addressLocality: 'Silifke',
         addressRegion: 'Mersin',
         addressCountry: 'TR'
+      },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: 36.3225981,
+        longitude: 33.8816941
       },
       openingHoursSpecification: [{
         '@type': 'OpeningHoursSpecification',
