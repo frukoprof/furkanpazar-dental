@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "title": "Dt. Muhammed Furkan Pazar — Diş Hekimi | Taşucu, Silifke",
+    "description": "Taşucu, Silifke'de genel diş hekimliği muayenehanesi. Dolgu, kanal tedavisi, implant, protez ve koruyucu uygulamalar. Türkçe, Rusça ve İngilizce iletişim."
+  },
+  "nav": {
+    "services": "Hizmetler",
+    "doctor": "Hekim",
+    "approach": "Yaklaşım",
+    "faq": "SSS",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "eyebrow": "Genel Diş Hekimliği — Taşucu, Silifke",
+    "title": "Dt. Muhammed Furkan Pazar",
+    "lead": "Ağız ve diş sağlığında tanı, tedavi ve koruyucu hekimlik hizmetleri. Muayene ve bilgilendirme Türkçe, Rusça ve İngilizce yapılabilir.",
+    "cta_contact": "İletişime geçin",
+    "cta_services": "Hizmet alanları"
+  },
+  "services": {
+    "eyebrow": "Hizmetler",
+    "title": "Hizmet Alanları",
+    "intro": "Muayenehanemizde sunulan uygulamalar aşağıdadır. Her tedavi, muayene ve tanı sonrasında hastayla birlikte planlanır.",
+    "filling": {
+      "title": "Dolgu ve Restoratif Tedavi",
+      "desc": "Çürük ya da hasar görmüş dişlerin diş rengindeki dolgu malzemeleri ile onarılması."
+    },
+    "root": {
+      "title": "Kanal Tedavisi",
+      "desc": "Dişin iltihaplanmış veya zarar görmüş iç dokusunun temizlenerek dişin ağızda tutulmasına yönelik tedavi."
+    },
+    "implant": {
+      "title": "İmplant",
+      "desc": "Eksik dişlerin yerine çene kemiğine yerleştirilen implant üzerine protez uygulanması. Uygunluk, muayene ve görüntüleme ile değerlendirilir."
+    },
+    "prosthesis": {
+      "title": "Protez (Kuron–Köprü)",
+      "desc": "Sabit ve hareketli protezlerle eksik dişlerin işlevinin ve görünümünün yeniden kazandırılmasına yönelik uygulamalar."
+    },
+    "whitening": {
+      "title": "Diş Beyazlatma",
+      "desc": "Diş renginin açılmasını amaçlayan uygulama. Sonuç kişiden kişiye farklılık gösterir; uygunluk muayene ile değerlendirilir."
+    },
+    "pediatric": {
+      "title": "Çocuk Diş Hekimliği",
+      "desc": "Çocuklarda çürük tedavisi, koruyucu uygulamalar (fissür örtücü, flor) ve düzenli kontrol alışkanlığının kazandırılması."
+    },
+    "cleaning": {
+      "title": "Diş Taşı Temizliği",
+      "desc": "Diş eti sağlığının korunması amacıyla diş taşı ve plağın temizlenmesi."
+    },
+    "extraction": {
+      "title": "Diş Çekimi",
+      "desc": "Tedavi ile korunması mümkün olmayan dişlerin lokal anestezi altında çekilmesi."
+    },
+    "note": "Ortodontik tedavi (tel tedavisi) muayenehanemizde uygulanmamaktadır."
+  },
+  "doctor": {
+    "eyebrow": "Hekim",
+    "title": "Dt. Muhammed Furkan Pazar",
+    "role": "Diş Hekimi",
+    "bio": "Genel diş hekimliği alanında, tedavi ağırlıklı olarak çalışmaktadır. Dolgu, kanal tedavisi, implant ve protez uygulamaları başta olmak üzere ağız–diş sağlığının korunması ve tedavisine yönelik hizmet vermektedir.",
+    "fact1_label": "Unvan",
+    "fact1": "Diş Hekimi (Dt.)",
+    "fact2_label": "Çalışma alanı",
+    "fact2": "Genel diş hekimliği — tanı ve tedavi",
+    "fact3_label": "İletişim dilleri",
+    "fact3": "Türkçe, Rusça, İngilizce"
+  },
+  "approach": {
+    "eyebrow": "Yaklaşım",
+    "title": "Çalışma İlkelerimiz",
+    "item1_title": "Hijyen ve Sterilizasyon",
+    "item1_desc": "Alet sterilizasyonu ve enfeksiyon kontrolü, her hasta için güncel standartlara göre uygulanır.",
+    "item2_title": "Bilgilendirme ve Onam",
+    "item2_desc": "Muayene sonrasında tanı, tedavi seçenekleri ve süreç açıkça anlatılır; tedaviye hastayla birlikte karar verilir.",
+    "item3_title": "Tanıya Dayalı Planlama",
+    "item3_desc": "Tedavi planı, muayene ve gerekli görüntüleme sonrasında kişinin ihtiyacına göre oluşturulur.",
+    "item4_title": "Üç Dilde İletişim",
+    "item4_desc": "Muayene, bilgilendirme ve yazışmalar Türkçe, Rusça ve İngilizce yapılabilir."
+  },
+  "faq": {
+    "eyebrow": "SSS",
+    "title": "Sık Sorulan Sorular",
+    "q1": "İlk muayenede neler yapılır?",
+    "a1": "Ağız içi muayene yapılır, gerekli görülürse röntgen alınır. Mevcut durum ve tedavi seçenekleri anlatılır; sonraki adımlara birlikte karar verilir.",
+    "q2": "Kanal tedavisi nedir?",
+    "a2": "Dişin içindeki iltihaplı ya da hasarlı dokunun temizlenip kök kanallarının doldurulmasıdır. Seans sayısı dişin durumuna göre muayenede belirlenir.",
+    "q3": "İmplant süreci nasıl ilerler?",
+    "a3": "Önce muayene ve görüntüleme ile çene kemiği değerlendirilir. Uygun olması halinde implant yerleştirilir; iyileşme döneminin ardından üzerine protez uygulanır. Süreç ve süre kişiye göre değişir.",
+    "q4": "Diş beyazlatma kalıcı mıdır?",
+    "a4": "Kalıcı değildir. Etkinin süresi; beslenme, çay–kahve–sigara tüketimi ve ağız bakımı alışkanlıklarına bağlı olarak kişiden kişiye değişir.",
+    "q5": "Çocuğumu ilk kez ne zaman diş hekimine getirmeliyim?",
+    "a5": "İlk dişler sürdükten sonra, geç kalmadan bir tanışma muayenesi önerilir. Erken kontrol, koruyucu uygulamaların zamanında planlanmasını sağlar.",
+    "q6": "Rusça veya İngilizce iletişim mümkün mü?",
+    "a6": "Evet. Muayene, bilgilendirme ve mesajlaşma Türkçe, Rusça ve İngilizce yapılabilir."
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Adres ve Çalışma Saatleri",
+    "address_label": "Adres",
+    "address": "Taşucu Mahallesi, Fevzi Paşa Sokak No: 22A/A, Silifke / Mersin",
+    "hours_label": "Çalışma Saatleri",
+    "hours_weekdays": "Pazartesi – Cumartesi",
+    "hours_weekdays_time": "09:00 – 18:30",
+    "hours_sunday": "Pazar",
+    "hours_sunday_time": "Kapalı",
+    "reach_label": "Ulaşım",
+    "reach_desc": "Sorularınız için WhatsApp veya Telegram üzerinden yazabilirsiniz.",
+    "whatsapp": "WhatsApp ile yazın",
+    "telegram": "Telegram ile yazın",
+    "map_link": "Haritada aç",
+    "map_title": "Muayenehane konumu — Google Haritalar"
+  },
+  "footer": {
+    "disclaimer": "Bu sitedeki bilgiler bilgilendirme amaçlıdır; muayene ve tanının yerine geçmez. Tedavi planı, yapılan muayeneye göre değişebilir.",
+    "responsible_label": "İçerikten sorumlu",
+    "updated_label": "Son güncelleme",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "floating": {
+    "whatsapp": "WhatsApp ile yazın",
+    "telegram": "Telegram ile yazın"
+  }
+}

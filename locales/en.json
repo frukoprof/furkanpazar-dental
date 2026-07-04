@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "title": "Dt. Muhammed Furkan Pazar — Dentist | Taşucu, Silifke",
+    "description": "General dentistry practice in Taşucu, Silifke (Mersin). Fillings, root canal treatment, implants, prosthetics and preventive care. Communication in English, Russian and Turkish."
+  },
+  "nav": {
+    "services": "Services",
+    "doctor": "Dentist",
+    "approach": "Approach",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "General Dentistry — Taşucu, Silifke",
+    "title": "Dt. Muhammed Furkan Pazar",
+    "lead": "Diagnosis, treatment and preventive care for oral and dental health. Examinations and consultations are available in English, Russian and Turkish.",
+    "cta_contact": "Get in touch",
+    "cta_services": "Areas of treatment"
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Areas of Treatment",
+    "intro": "The procedures offered at our practice are listed below. Every treatment is planned together with the patient, after an examination and diagnosis.",
+    "filling": {
+      "title": "Fillings & Restorative Care",
+      "desc": "Repairing decayed or damaged teeth with tooth-coloured filling materials."
+    },
+    "root": {
+      "title": "Root Canal Treatment",
+      "desc": "Cleaning the inflamed or damaged tissue inside the tooth so that the tooth can be preserved."
+    },
+    "implant": {
+      "title": "Dental Implants",
+      "desc": "Replacing missing teeth with an implant placed in the jawbone, restored with a prosthesis. Suitability is assessed through examination and imaging."
+    },
+    "prosthesis": {
+      "title": "Prosthetics (Crowns & Bridges)",
+      "desc": "Fixed and removable prostheses to restore the function and appearance of missing teeth."
+    },
+    "whitening": {
+      "title": "Teeth Whitening",
+      "desc": "A procedure aimed at lightening tooth shade. Results vary from person to person; suitability is assessed at an examination."
+    },
+    "pediatric": {
+      "title": "Children's Dentistry",
+      "desc": "Treatment of decay in children, preventive measures (fissure sealants, fluoride) and building the habit of regular check-ups."
+    },
+    "cleaning": {
+      "title": "Scaling & Cleaning",
+      "desc": "Removal of tartar and plaque to help maintain healthy gums."
+    },
+    "extraction": {
+      "title": "Tooth Extraction",
+      "desc": "Extraction of teeth that cannot be preserved by treatment, under local anaesthesia."
+    },
+    "note": "Orthodontic treatment (braces) is not provided at our practice."
+  },
+  "doctor": {
+    "eyebrow": "Dentist",
+    "title": "Dt. Muhammed Furkan Pazar",
+    "role": "Dentist",
+    "bio": "Works as a general dentist with a focus on treatment. His main areas of practice are fillings, root canal treatment, implants and prosthetics, together with preventive oral care.",
+    "fact1_label": "Qualification",
+    "fact1": "Dentist (Dt.)",
+    "fact2_label": "Field",
+    "fact2": "General dentistry — diagnosis and treatment",
+    "fact3_label": "Languages",
+    "fact3": "English, Russian, Turkish"
+  },
+  "approach": {
+    "eyebrow": "Approach",
+    "title": "How We Work",
+    "item1_title": "Hygiene & Sterilisation",
+    "item1_desc": "Instrument sterilisation and infection control are carried out for every patient according to current standards.",
+    "item2_title": "Information & Consent",
+    "item2_desc": "After the examination, the diagnosis, treatment options and process are explained clearly; decisions are made together with the patient.",
+    "item3_title": "Diagnosis-Based Planning",
+    "item3_desc": "The treatment plan is prepared after an examination and any necessary imaging, according to the patient's needs.",
+    "item4_title": "Communication in Three Languages",
+    "item4_desc": "Examinations, consultations and correspondence are available in English, Russian and Turkish."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently Asked Questions",
+    "q1": "What happens at the first appointment?",
+    "a1": "An oral examination is carried out and an X-ray is taken if needed. Your current condition and treatment options are explained, and next steps are decided together.",
+    "q2": "What is root canal treatment?",
+    "a2": "It is the cleaning of inflamed or damaged tissue inside the tooth and the filling of the root canals. The number of visits depends on the condition of the tooth and is determined at the examination.",
+    "q3": "How does the implant process work?",
+    "a3": "First, the jawbone is assessed through an examination and imaging. If suitable, the implant is placed; after a healing period, a prosthesis is fitted on top. Timelines vary from person to person.",
+    "q4": "Is teeth whitening permanent?",
+    "a4": "No. How long the effect lasts varies by person and depends on diet, tea, coffee and tobacco use, and oral care habits.",
+    "q5": "When should my child first see a dentist?",
+    "a5": "An introductory check-up is recommended soon after the first teeth come through. An early visit allows preventive care to be planned in good time.",
+    "q6": "Is communication in English or Russian possible?",
+    "a6": "Yes. Examinations, consultations and messaging are available in English, Russian and Turkish."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Address & Opening Hours",
+    "address_label": "Address",
+    "address": "Taşucu Mahallesi, Fevzi Paşa Sokak No: 22A/A, Silifke / Mersin, Türkiye",
+    "hours_label": "Opening Hours",
+    "hours_weekdays": "Monday – Saturday",
+    "hours_weekdays_time": "09:00 – 18:30",
+    "hours_sunday": "Sunday",
+    "hours_sunday_time": "Closed",
+    "reach_label": "How to reach us",
+    "reach_desc": "For any questions, message us on WhatsApp or Telegram.",
+    "whatsapp": "Message on WhatsApp",
+    "telegram": "Message on Telegram",
+    "map_link": "Open in Maps",
+    "map_title": "Practice location — Google Maps"
+  },
+  "footer": {
+    "disclaimer": "The information on this site is for general information only; it does not replace an examination or diagnosis. The treatment plan may change after an examination.",
+    "responsible_label": "Responsible for content",
+    "updated_label": "Last updated",
+    "rights": "All rights reserved."
+  },
+  "floating": {
+    "whatsapp": "Message on WhatsApp",
+    "telegram": "Message on Telegram"
+  }
+}
