@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://frukoprof.github.io/furkanpazar-dental/sitemap.xml
