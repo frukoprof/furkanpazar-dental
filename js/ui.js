@@ -47,7 +47,7 @@
       hasMap: 'https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6',
       address: {
         '@type': 'PostalAddress',
-        streetAddress: 'Taşucu Mahallesi, Fevzi Paşa Sokak No: 22A/A',
+        streetAddress: 'Taşucu Mahallesi, Fevzi Paşa Sokak, No: 22A/A',
         addressLocality: 'Silifke',
         addressRegion: 'Mersin',
         addressCountry: 'TR'

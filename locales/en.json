@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Dt. Muhammed Furkan Pazar — Dentist | Taşucu, Silifke",
+    "title": "Dt. Muhammed Furkan Pazar — Dentist | Taşucu, Silifke, Mersin",
     "description": "General dentistry practice in Taşucu, Silifke (Mersin). Fillings, root canal treatment, implants, prosthetics and preventive care. Communication in English, Russian and Turkish."
   },
   "nav": {
@@ -12,7 +12,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "eyebrow": "General Dentistry — Taşucu, Silifke",
+    "eyebrow": "General Dentistry — Taşucu, Silifke, Mersin",
     "title": "Dt. Muhammed Furkan Pazar",
     "lead": "Diagnosis, treatment and preventive care for oral and dental health. Examinations and consultations are available in English, Russian and Turkish.",
     "cta_contact": "Get in touch",
@@ -100,7 +100,7 @@
     "eyebrow": "Contact",
     "title": "Address & Opening Hours",
     "address_label": "Address",
-    "address": "Taşucu Mahallesi, Fevzi Paşa Sokak No: 22A/A, Silifke / Mersin, Türkiye",
+    "address": "Taşucu Mahallesi, Fevzi Paşa Sokak, No: 22A/A, Silifke / Mersin, Türkiye",
     "hours_label": "Opening Hours",
     "day_mon": "Monday",
     "day_tue": "Tuesday",
