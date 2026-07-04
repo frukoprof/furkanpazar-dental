@@ -13,7 +13,7 @@ Alan adına geçmeden / siteyi duyurmadan önce:
 - [x] **WhatsApp numarası**: `wa.me/905550514455` (index.html, 2 yer)
 - [x] **Telegram**: `t.me/+905550514455` (index.html, 2 yer)
 - [x] **Çalışma saatleri**: Cuma hariç her gün 10:00–20:00 (locales + JSON-LD)
-- [x] **Sorumlu e-posta**: `pazarmf@gmail.com` (footer + JSON-LD)
+- [x] **Sorumlu e-posta**: `info@mfurkanpazar.com` (footer + JSON-LD; Cloudflare Email Routing -> pazarmf@gmail.com)
 - [x] **Harita**: iframe işletme kaydına ve koordinata (36.3225981, 33.8816941) bağlandı;
       "Haritada aç" linki Google işletme kaydına gider (https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6);
       JSON-LD'de `hasMap` + `geo` mevcut

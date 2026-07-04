@@ -35,7 +35,7 @@ Tek sayfalık, üç dilli, statik klinik sitesi. Her faz ayrı commit(ler) ile i
 ## Faz 4 — Deploy ✅
 - [x] GitHub Pages aktif: https://frukoprof.github.io/furkanpazar-dental/
 - [x] docs/DEPLOYMENT.md: Cloudflare domain + DNS + HTTPS adımları, yayın öncesi kontrol listesi
-- [ ] CNAME dosyası (domain alınınca — bkz. DEPLOYMENT.md)
+- [x] CNAME dosyası (`mfurkanpazar.com`)
 
 ## Yayın Öncesi Bekleyenler (kullanıcı aksiyonu)
 - [ ] WhatsApp numarası → `index.html` içindeki `wa.me` linki
