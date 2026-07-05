@@ -54,8 +54,7 @@
     "extraction": {
       "title": "Tooth Extraction",
       "desc": "Extraction of teeth that cannot be preserved by treatment, under local anaesthesia."
-    },
-    "note": "Orthodontic treatment (braces) is not provided at our practice."
+    }
   },
   "doctor": {
     "eyebrow": "Dentist",
