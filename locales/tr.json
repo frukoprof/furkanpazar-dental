@@ -16,7 +16,8 @@
     "title": "Dt. Muhammed Furkan Pazar",
     "lead": "Ağız ve diş sağlığında tanı, tedavi ve koruyucu hekimlik hizmetleri. Muayene ve bilgilendirme Türkçe, Rusça ve İngilizce yapılabilir.",
     "cta_contact": "İletişime geçin",
-    "cta_services": "Hizmet alanları"
+    "cta_services": "Hizmet alanları",
+    "photo_alt": "Dt. Muhammed Furkan Pazar — portre"
   },
   "services": {
     "eyebrow": "Hizmetler",
@@ -60,13 +61,18 @@
     "eyebrow": "Hekim",
     "title": "Dt. Muhammed Furkan Pazar",
     "role": "Diş Hekimi",
-    "bio": "Genel diş hekimliği alanında, tedavi ağırlıklı olarak çalışmaktadır. Dolgu, kanal tedavisi, implant ve protez uygulamaları başta olmak üzere ağız–diş sağlığının korunması ve tedavisine yönelik hizmet vermektedir.",
-    "fact1_label": "Unvan",
-    "fact1": "Diş Hekimi (Dt.)",
-    "fact2_label": "Çalışma alanı",
-    "fact2": "Genel diş hekimliği — tanı ve tedavi",
-    "fact3_label": "İletişim dilleri",
-    "fact3": "Türkçe, Rusça, İngilizce"
+    "bio": "2021 yılında İzmir Kâtip Çelebi Üniversitesi Diş Hekimliği Fakültesi'nden mezun oldum; o günden bu yana Taşucu'da hasta kabul ediyorum. 2025 yılında kendi muayenehanemi açtım; asistan ekibimle birlikte çalışıyorum.",
+    "bio2": "Tedavi odaklı çalışırım; önceliğim, dişin ve çevre dokuların biyolojisine saygılı, olabildiğince koruyucu bir yaklaşımdır. Ayrıntıya özen gösteririm: tedavi planını muayene sonrasında, seçenekleri gerekçeleriyle birlikte anlatarak hastayla birlikte kurarım.",
+    "fact_edu_label": "Mezuniyet",
+    "fact_edu": "İzmir Kâtip Çelebi Üniversitesi Diş Hekimliği Fakültesi, 2021",
+    "fact_local_label": "Taşucu'da",
+    "fact_local": "2021'den beri",
+    "fact_clinic_label": "Muayenehane",
+    "fact_clinic": "2025'te kuruldu",
+    "fact_chamber_label": "Oda Üyeliği",
+    "fact_chamber": "Mersin Diş Hekimleri Odası",
+    "fact_lang_label": "İletişim Dilleri",
+    "fact_lang": "Türkçe, Rusça, İngilizce"
   },
   "approach": {
     "eyebrow": "Yaklaşım",

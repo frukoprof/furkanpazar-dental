@@ -44,6 +44,7 @@
       url: location.origin + '/',
       telephone: '+905550514455',
       email: 'info@mfurkanpazar.com',
+      foundingDate: '2025',
       hasMap: 'https://maps.app.goo.gl/Kw6MkW7ue3kJLfRP6',
       address: {
         '@type': 'PostalAddress',

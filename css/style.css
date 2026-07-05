@@ -248,15 +248,18 @@ h1, h2, h3 { line-height: 1.2; text-wrap: balance; font-weight: 700; }
 
 /* ── hero ── */
 .hero {
+  --hero-pad: clamp(4rem, 12vw, 8.5rem);
   position: relative;
   overflow: hidden;
-  padding-block: clamp(4rem, 12vw, 8.5rem);
+  padding-top: var(--hero-pad);
+  padding-bottom: 0;
 }
 .hero-inner {
   position: relative;
   display: grid;
-  gap: 2rem;
+  gap: 2.5rem;
 }
+.hero-text { padding-bottom: var(--hero-pad); }
 .hero h1 {
   font-size: var(--fs-hero);
   font-weight: 800;
@@ -271,16 +274,32 @@ h1, h2, h3 { line-height: 1.2; text-wrap: balance; font-weight: 700; }
 }
 .hero-cta { display: flex; flex-wrap: wrap; gap: 0.75rem; }
 
-.hero-mark {
+/* portre + arkasında soluk diş filigranı; figür bölümün alt kenarına basar */
+.hero-visual {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin-top: -1rem;
+}
+.hero-watermark {
   position: absolute;
-  right: -12%;
-  top: 50%;
-  transform: translateY(-50%);
-  width: clamp(16rem, 42vw, 30rem);
+  bottom: 8%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: clamp(18rem, 60vw, 26rem);
+  height: auto;
+  aspect-ratio: 1;
+  color: var(--ink);
   opacity: 0.05;
   pointer-events: none;
 }
-.hero-mark svg { width: 100%; height: auto; aspect-ratio: 1; color: var(--ink); }
+.hero-photo {
+  position: relative;
+  width: clamp(15rem, 62vw, 21rem);
+  height: auto;
+  filter: drop-shadow(0 18px 36px #232b3626);
+}
 
 /* ── butonlar ── */
 .btn {
@@ -360,24 +379,14 @@ h1, h2, h3 { line-height: 1.2; text-wrap: balance; font-weight: 700; }
   display: grid;
   gap: 2.5rem;
 }
-.doctor-mark {
-  width: clamp(7rem, 20vw, 11rem);
-  justify-self: center;
-}
-.doctor-mark svg {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 1;
-  color: var(--on-dark);
-  opacity: 0.9;
-}
 .doctor-role {
   font-weight: 600;
   color: var(--on-dark-muted);
   margin-top: -0.5rem;
   margin-bottom: 1.25rem;
 }
-.doctor-bio { max-width: 38rem; color: var(--on-dark); margin-bottom: 2rem; }
+.doctor-bio { max-width: 40rem; color: var(--on-dark); margin-bottom: 1.25rem; }
+.doctor-bio:last-of-type { margin-bottom: 2.25rem; }
 
 .doctor-facts {
   display: grid;
@@ -574,7 +583,7 @@ h1, h2, h3 { line-height: 1.2; text-wrap: balance; font-weight: 700; }
   .brand-name { display: block; }
   .cards { grid-template-columns: repeat(2, 1fr); }
   .principles { grid-template-columns: repeat(2, 1fr); }
-  .doctor-facts { grid-template-columns: repeat(3, 1fr); }
+  .doctor-facts { grid-template-columns: repeat(2, 1fr); }
   .footer-meta {
     display: flex;
     flex-wrap: wrap;
@@ -601,14 +610,16 @@ h1, h2, h3 { line-height: 1.2; text-wrap: balance; font-weight: 700; }
   }
   .nav-toggle { display: none; }
 
-  .hero-inner { grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.8fr); align-items: center; }
-  .hero-mark { position: relative; right: auto; top: auto; transform: none; justify-self: end; opacity: 0.06; }
+  .hero-inner { grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr); align-items: end; }
+  .hero-text { align-self: center; }
+  .hero-visual { margin-top: 0; justify-self: end; }
+  .hero-photo { width: clamp(19rem, 30vw, 24rem); }
+  .hero-watermark { width: clamp(22rem, 36vw, 30rem); }
 
   .cards { grid-template-columns: repeat(4, 1fr); }
   .principles { grid-template-columns: repeat(4, 1fr); gap: 2.5rem; }
 
-  .doctor-inner { grid-template-columns: auto 1fr; gap: 5rem; align-items: center; }
-  .doctor-mark { justify-self: start; }
+  .doctor-facts { grid-template-columns: repeat(3, 1fr); }
 
   .contact-grid { grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 3rem; }
   .contact-map { min-height: 24rem; }

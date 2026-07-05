@@ -16,7 +16,8 @@
     "title": "Dt. Muhammed Furkan Pazar",
     "lead": "Diagnosis, treatment and preventive care for oral and dental health. Examinations and consultations are available in English, Russian and Turkish.",
     "cta_contact": "Get in touch",
-    "cta_services": "Areas of treatment"
+    "cta_services": "Areas of treatment",
+    "photo_alt": "Dt. Muhammed Furkan Pazar — portrait"
   },
   "services": {
     "eyebrow": "Services",
@@ -60,13 +61,18 @@
     "eyebrow": "Dentist",
     "title": "Dt. Muhammed Furkan Pazar",
     "role": "Dentist",
-    "bio": "Works as a general dentist with a focus on treatment. His main areas of practice are fillings, root canal treatment, implants and prosthetics, together with preventive oral care.",
-    "fact1_label": "Qualification",
-    "fact1": "Dentist (Dt.)",
-    "fact2_label": "Field",
-    "fact2": "General dentistry — diagnosis and treatment",
-    "fact3_label": "Languages",
-    "fact3": "English, Russian, Turkish"
+    "bio": "I graduated from the Faculty of Dentistry at İzmir Kâtip Çelebi University in 2021 and have been seeing patients in Taşucu ever since. In 2025 I opened my own practice, where I work alongside my assistant team.",
+    "bio2": "My work is treatment-focused; my priority is a conservative approach that respects the biology of the tooth and the surrounding tissues. I pay close attention to detail: the treatment plan is built together with the patient after an examination, going through the options and the reasoning behind them.",
+    "fact_edu_label": "Education",
+    "fact_edu": "İzmir Kâtip Çelebi University, Faculty of Dentistry, 2021",
+    "fact_local_label": "In Taşucu",
+    "fact_local": "since 2021",
+    "fact_clinic_label": "Practice",
+    "fact_clinic": "opened in 2025",
+    "fact_chamber_label": "Membership",
+    "fact_chamber": "Mersin Chamber of Dentists",
+    "fact_lang_label": "Languages",
+    "fact_lang": "English, Russian, Turkish"
   },
   "approach": {
     "eyebrow": "Approach",

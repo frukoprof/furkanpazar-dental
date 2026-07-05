@@ -37,6 +37,15 @@ Tek sayfalık, üç dilli, statik klinik sitesi. Her faz ayrı commit(ler) ile i
 - [x] docs/DEPLOYMENT.md: Cloudflare domain + DNS + HTTPS adımları, yayın öncesi kontrol listesi
 - [x] CNAME dosyası (`mfurkanpazar.com`)
 
+## Faz 5 — Kişiselleştirme ✅
+- [x] Hekim portresi (transparan kesim, WebP) hero'nun sağına — filigran diş logosu arkada
+- [x] Hekim bölümü hero'nun hemen ardına taşındı; birinci ağızdan biyografi (2 paragraf)
+- [x] 5 olgu kartı: mezuniyet (İKÇÜ 2021), Taşucu (2021'den beri), muayenehane (2025),
+      Mersin Diş Hekimleri Odası üyeliği, iletişim dilleri — üç dilde
+- [x] Metinler COMPLIANCE.md süzgecinden geçirildi (övgü sıfatları nötrleştirildi)
+- [x] JSON-LD `foundingDate` eklendi
+- [ ] Klinik içi galeri + ilk ziyaret bölümü (işlenmiş fotoğraflar masaüstünde hazır; kullanıcı onayı bekliyor)
+
 ## Yayın Öncesi Bekleyenler (kullanıcı aksiyonu)
 - [ ] WhatsApp numarası → `index.html` içindeki `wa.me` linki
 - [ ] Telegram kullanıcı adı → `t.me` linki
